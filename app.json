@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "humbertojr-rentx",
+    "slug": "humbertojr-rentx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "db52c384-88be-4b38-af4b-556f5b94d85e"
+      }
+    }
+  }
+}
