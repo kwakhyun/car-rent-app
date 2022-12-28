@@ -1,9 +1,9 @@
-## Rent Car App
+## Car Rent App
 
 ### Description
 
 - React Native와 Expo를 이용해 개발한 렌트카 예약 앱입니다.
-  <br>
+<br>
 
 ### Features
 
@@ -11,7 +11,7 @@
 - 캘린더를 통한 예약 날짜 선택
 - 렌트 비용 계산 및 예약
 - 내 예약 내역 확인
-  <br>
+<br>
 
 ### Screenshots
 
