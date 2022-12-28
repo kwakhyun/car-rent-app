@@ -1,0 +1,288 @@
+{
+  "cars": [
+    {
+      "id": "535e8de8-721b-4bac-8b72-7d29be7da467",
+      "brand": "Audi",
+      "name": "RS5 쿠페",
+      "about": "이 차에는 여전히 스포티한 리어 디퍼렌셜이 표준인 Quattro 4륜 구동 시스템이 있습니다. Audi에 따르면 Sportback에서 3.8초 만에 동일한 작업을 수행합니다.",
+      "rent": {
+        "period": "Per day",
+        "price": 360
+      },
+      "fuel_type": "Electric",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/1.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "250km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "3.8s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "800 HP"
+        },
+        {
+          "type": "electric_motor",
+          "name": "Electric"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "5 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/1.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/2.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/3.png"
+      ]
+    },
+    {
+      "id": "ffb71f55-818a-48b1-b7d2-2efc406ede25",
+      "brand": "Porsche",
+      "name": "Panamera",
+      "about": "Panamera는 차체가 큰 고급 쿠페입니다. V6 및 V8 전면 엔진이 있습니다. 7단 듀얼 클러치 PDK 기어박스가 장착된 사륜구동.",
+      "rent": {
+        "period": "Per day",
+        "price": 400
+      },
+      "fuel_type": "gasoline_motor",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/2.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "315km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "2.9s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "700 HP"
+        },
+        {
+          "type": "gasoline_motor",
+          "name": "Gasoline"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "4 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/4.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/5.png"
+      ]
+    },
+    {
+      "id": "52930821-cbea-4b05-9f45-7c02b1bb0d8c",
+      "brand": "Chevrolet",
+      "name": "Corvette Z06",
+      "about": "Chevrolet Corvette Z06에는 더 큰 프런트 세트 캘리퍼가 있는 고성능 Brembo 브레이크, 탄소 섬유 후드가 있는 공기역학적 기능, 고성능 서스펜션이 포함되어 있습니다.",
+      "rent": {
+        "period": "Per day",
+        "price": 240
+      },
+      "fuel_type": "gasoline_motor",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/3.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "330km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "6.2s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "900 HP"
+        },
+        {
+          "type": "gasoline_motor",
+          "name": "Gasoline"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "2 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/6.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/7.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/8.png"
+      ]
+    },
+    {
+      "id": "49983f6c-a46a-4dfd-a86e-425b8c72e086",
+      "brand": "Lamborghini",
+      "name": "Huracan",
+      "about": "이것은 스포츠카입니다. 그것은 세비야의 Real Maestranza 광장에서 용서받은 전설적인 투우에서 비롯되었습니다. 가속을 좋아하는 사람들에게는 아름다운 차입니다.",
+      "rent": {
+        "period": "Per day",
+        "price": 700
+      },
+      "fuel_type": "electric_motor",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/4.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "380km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "3.2s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "800 HP"
+        },
+        {
+          "type": "electric_motor",
+          "name": "Electric"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "2 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/9.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/10.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/11.png"
+      ]
+    },
+    {
+      "id": "508e7193-0078-4615-9071-920b59038fda",
+      "brand": "volvo",
+      "name": "XC40",
+      "about": "고성능 전기 모터와 연소 엔진의 강력한 조합. 컴팩트하고 혁신적입니다. 표현력이 뛰어난 디자인, 직관적인 기술 및 도시 스타일.",
+      "rent": {
+        "period": "Per day",
+        "price": 120
+      },
+      "fuel_type": "gasoline_motor",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/5.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "180km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "1.5s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "600 HP"
+        },
+        {
+          "type": "gasoline_motor",
+          "name": "Gasoline"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "5 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/12.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/13.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/14.png"
+      ]
+    },
+    {
+      "id": "59626707-88c5-4877-9350-07f372c0905a",
+      "brand": "mitsubishi",
+      "name": "Lancer",
+      "about": "Mitsubishi Lancer는 아름답고 공격적인 차입니다. 게다가 편안함과 효율성도 만족스럽습니다. 마음의 평화와 안전을 가지고 운전할 수 있을 만큼 단단하고 안정적입니다.",
+      "rent": {
+        "period": "Per day",
+        "price": 120
+      },
+      "fuel_type": "hybrid_motor",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/ignite/react-native/thumbnails/6.png",
+      "accessories": [
+        {
+          "type": "speed",
+          "name": "180km/h"
+        },
+        {
+          "type": "acceleration",
+          "name": "2.0s"
+        },
+        {
+          "type": "turning_diameter",
+          "name": "600 HP"
+        },
+        {
+          "type": "hybrid_motor",
+          "name": "하이브리드"
+        },
+        {
+          "type": "exchange",
+          "name": "Auto"
+        },
+        {
+          "type": "seats",
+          "name": "5 people"
+        }
+      ],
+      "photos": [
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/15.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/16.png",
+        "https://storage.googleapis.com/golden-wind/ignite/react-native/images/17.png"
+      ]
+    }
+  ],
+  "schedules_bycars": [
+    {
+      "id": "535e8de8-721b-4bac-8b72-7d29be7da467",
+      "unavailable_dates": []
+    },
+    {
+      "id": "ffb71f55-818a-48b1-b7d2-2efc406ede25",
+      "unavailable_dates": []
+    },
+    {
+      "id": "52930821-cbea-4b05-9f45-7c02b1bb0d8c",
+      "unavailable_dates": []
+    },
+    {
+      "id": "49983f6c-a46a-4dfd-a86e-425b8c72e086",
+      "unavailable_dates": []
+    },
+    {
+      "id": "508e7193-0078-4615-9071-920b59038fda",
+      "unavailable_dates": []
+    },
+    {
+      "id": "59626707-88c5-4877-9350-07f372c0905a",
+      "unavailable_dates": []
+    }
+  ],
+  "schedules_byuser": []
+}
