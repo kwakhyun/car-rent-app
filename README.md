@@ -3,6 +3,7 @@
 ### Description
 
 - React Native와 Expo를 이용해 개발한 렌트카 예약 앱입니다.
+- JSON Server를 이용해 API 서버를 구현했습니다.
 <br>
 
 ### Features
