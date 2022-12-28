@@ -1,4 +1,4 @@
-## Car Rent App
+## RentCar
 
 ### Description
 
@@ -30,7 +30,7 @@
 
 ```bash
 # 프로젝트 클론
-$ git clone https://github.com/kwakhyun/car-rent-app.git
+$ git clone https://github.com/kwakhyun/rent-car.git
 
 # 의존성 패키지 설치
 $ yarn
