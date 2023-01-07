@@ -50,7 +50,7 @@ export function MyCars() {
     async function fetchCars() {
       try {
         const response = await api('/schedules_byuser?user_id=1');
-        setCars(response.data);
+        setCars(response.data.reverse());
       } catch (error) {
         console.log('== MyCars - fetchCars ==> ', error);
       } finally {
@@ -71,7 +71,9 @@ export function MyCars() {
         />
         <BackButton onPress={handleBackButton} color={theme.colors.shape} />
         <StyledTitle>마이페이지</StyledTitle>
-        <StyledSubTitle>내가 예약한 차량 정보를 확인할 수 있습니다.</StyledSubTitle>
+        <StyledSubTitle>
+          내가 예약한 차량 정보를 확인할 수 있습니다.
+        </StyledSubTitle>
       </StyledHeader>
 
       {loading ? (
